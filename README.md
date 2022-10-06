@@ -1,7 +1,7 @@
 ## Beginners-Catalog
-#A repository of Collection of Basic Programs In Variety of Programming Language. Feel Free to Contribute.
+# A repository of Collection of Basic Programs In Variety of Programming Language. Feel Free to Contribute.
 
-#Our Aim
+# Our Aim
 - To Collect Samples of easy beginner friendly programs in variety of languages .
 - To help beginners with solving basic programming problems by providing solution programs in the catalog.
 ## How to Contribute to the catalog.
@@ -75,7 +75,7 @@ git push -u origin <your_branch_name>
 
 **15** Voila!
 
-#Github Website/App (Short Way)
+# Github Website/App (Short Way)
 
 
 It's very easy. You don't need to be an expert in Git. Here are the steps you need to follow to Contribute to this repository.
