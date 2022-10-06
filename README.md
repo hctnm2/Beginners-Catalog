@@ -18,7 +18,7 @@ git clone --depth 1 https://github.com/<your_name>/Beginners-Catalog
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd hacktoberfest-2022
+cd Beginners-Catalog
 ```
 
 **4.** Add a reference(remote) to the original repository.
