@@ -1,5 +1,6 @@
 // C program for the above approach
 #include <stdio.h>
+#include <conio.h>
 int getIntegerOnly();
 
 // Driver Code
@@ -35,6 +36,7 @@ AGAIN:
         if (ch == 0)
         {
             printf(" \n\nPlease Input numeric values only!!!!");
+getch();
             goto AGAIN;
         }
 
